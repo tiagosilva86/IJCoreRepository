@@ -1,2 +1,2 @@
-file updated by first time
+file updated by first time with rebase
 file updated by second time
